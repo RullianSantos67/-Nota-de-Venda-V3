@@ -1,0 +1,1 @@
+private static Map<String, String[]> products = new HashMap<>();
